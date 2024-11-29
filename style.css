@@ -1,0 +1,30 @@
+.customnav {
+    background-color: black;
+}
+
+.anc {
+    text-transform: uppercase;
+}
+
+.navbar-toggler-icon {
+    width: 40px;
+    background-image: url('menu.png');
+}
+
+li{
+    padding: 15px;
+}
+
+.cta{
+    background-color: rgb(100, 11, 11);
+    padding: 10px 18px !important;
+     border-radius: 5px;
+}
+
+.banner{
+    width: 100%;
+}
+
+.content{
+    width: 80%;
+}
